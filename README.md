@@ -13,10 +13,4 @@ Skills: / REACT / JS / HTML / CSS/PYTHON
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/JobayerRahman07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sayedjobayerrahman/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/JobayerRahman07&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/JobayerRahman07)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/JobayerRahman07)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/JobayerRahman07)  
+ 
